@@ -67,8 +67,6 @@
 
 ## 4. 대표 화면
 
-> 실제 공개 레포에서는 `docs/images/` 아래에 스크린샷 또는 GIF를 배치하는 것을 권장합니다.
-
 ### 주요 화면 구성
 - 즐겨찾기 화면
 - 구독 화면
@@ -91,6 +89,7 @@ docs/
     ├── screen-recommending-sites-2.jpg
     ├── screen-recommending-sites-3.jpg
     └── screen-notification.jpg
+```
 
 ## 5. 기술 스택
 ### Frontend
