@@ -1,5 +1,6 @@
 # 센트리피전 (Sentry Pigeon)
 > 파편화된 공지·채용·지원사업·복지 정보를 한곳에 모아 관리하는 개인용 정보 운영 어시스턴트
+> https://play.google.com/store/apps/details?id=com.noticestore.app&pcampaignid=web_share
 
 ![Platform](https://img.shields.io/badge/platform-Flutter%20%7C%20FastAPI-blue)
 ![Status](https://img.shields.io/badge/status-Portfolio%20Public%20Repo-success)
