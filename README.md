@@ -6,6 +6,10 @@
 ![Status](https://img.shields.io/badge/status-Portfolio%20Public%20Repo-success)
 ![Scope](https://img.shields.io/badge/scope-Architecture%20%26%20Structure-informational)
 
+
+<img width="100" alt="pigeon_cutout" src="https://github.com/user-attachments/assets/a123b3a2-f85e-4e12-b80d-1f224c12bb86" />
+
+
 ## 1. 프로젝트 개요
 
 센트리피전은 사용자가 자주 확인해야 하는 여러 웹사이트의 공지사항, 채용 공고, 지원사업, 복지 정보 등을 **서버 측에서 주기적으로 추적하고**, 이를 **모바일 앱에서 구독·분류·알림** 형태로 관리할 수 있도록 설계한 서비스입니다.
